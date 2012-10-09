@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">InstaPop</string>
+    <string name="hello_world"></string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">InstaPop</string>
+	<string name="title_auth_main">InstaPop</string>
+	<string name="desc">A Picture</string>
+
+</resources>
